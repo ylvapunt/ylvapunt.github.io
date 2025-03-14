@@ -1,2 +1,1 @@
-# ylvapunt.github.io
-Portfolio website to host at ylvapunt.nl
+- Mailverbinding opzetten: https://www.youtube.com/watch?v=0X0kovjzLrw
