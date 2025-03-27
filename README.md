@@ -5,6 +5,7 @@
 <article class="thumb">
     <a href="images/fulls/image.jpg" class="image"><img src="images/thumbs/image.jpg" alt="" /></a>
     <h2 style="color: black;">Dit is een titel</h2>
+    <p> Dit is een beschrijving</p>
 </article>
 ```
 
